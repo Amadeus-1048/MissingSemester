@@ -1,0 +1,14 @@
+This is a sentence. 
+In Insert mode, x will just insert a character 'x'.
+For example, xxxxxxxxxxxxxxxxxxxxxxxxx.
+
+But in Normal mode, x will delete the character under the cursor.
+aaaaaaaaaaaaaaaaaaaaaaaa
+
+In Visual mode, it will delete the selection.
+
+That is to say, 
+x: Normal mode 下是删除一个字符，Visual mode 下是删除整个选中区域
+
+a
+
